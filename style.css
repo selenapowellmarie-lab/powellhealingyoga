@@ -48,7 +48,7 @@
 
 .modal-content h2 {
   font-family: "Playfair Display", serif;
-  font-size: 1.8rem;
+  font-size: 1rem;
   color: #00b4ff; /* neon blue */
   margin-bottom: 1rem;
   letter-spacing: 1px;
@@ -56,7 +56,7 @@
 
 .modal-content p {
   font-family: "Poppins", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: #a8c6e6;
   line-height: 1.6;
   margin-bottom: 2rem;
@@ -104,13 +104,12 @@
    Header Styles
    ===================== */
 .site-header {
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
   background: #ffffff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-  z-index: 1000;
 }
 
 .site-header .container {
@@ -200,7 +199,7 @@
 /* Responsive */
 @media (max-width: 768px) {
   .nav {
-    position: absolute;
+    position: relative;
     top: 100%;
     right: 0;
     background: #fff;
@@ -1069,14 +1068,14 @@
 /* ===== Modal Heading ===== */
 .modal-content h2 {
   font-family: 'Playfair Display', serif;
-  font-size: 2.2rem;
+  font-size: 1.5rem;
   margin-bottom: 20px;
   color: #2a9d8f; /* teal accent for calm */
 }
 
 /* ===== Modal Paragraph ===== */
 .modal-content p {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   margin-bottom: 30px;
   line-height: 1.6;
   color: #555;
@@ -1132,12 +1131,11 @@
 
 /* ===== Header ===== */
 .site-header {
-  position: fixed;
+  position: relative;
   top: 0;
   width: 100%;
   background: linear-gradient(90deg, #e0f7f4, #fff9f4); /* soft, calming gradient */
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  z-index: 1000;
   font-family: 'Montserrat', sans-serif;
 }
 
