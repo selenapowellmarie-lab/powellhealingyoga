@@ -7,13 +7,13 @@ const languageData = {
     siteName: "Powell Healing Yoga",
     welcomeModal: {
       heading: "Welcome to Powell Healing Yoga",
-      text: "Find your inner peace with yoga and meditation classes in London and Tokyo.",
+      text: "Find your inner peace with yoga and meditation classes in New York and Tokyo.",
       button: "Get Started",
     },
     headerNav: {
       home: "Home",
       about: "About",
-      services: "Classes",
+      services: "Services",
       schedule: "Schedule",
       gallery: "Gallery",
       contact: "Contact",
@@ -21,22 +21,22 @@ const languageData = {
     },
     hero: {
       heading: "Balance Your Mind and Body",
-      text: "Join Melissa Jane for calming yoga and meditation sessions designed for all levels.",
+      text: "Join Selena Marie Powell for calming yoga and meditation sessions designed for all levels.",
       button: "Book a Class",
     },
     directorCard: {
       title: "Instructor",
-      name: "Melissa Jane",
-      dob: "Based in London & Tokyo",
+      name: "Selena Marie Powell",
+      dob: "Based in New York & Tokyo",
     },
     about: {
       heading: "About Us",
       text1:
-        "Powell Powell Healing Yogaoffers a peaceful space to practice yoga and meditation with guidance from certified instructor Melissa Jane.",
+        "Powell Healing Yoga offers a peaceful space to practice yoga and meditation with guidance from certified instructor Selena Marie Powell.",
       text2:
         "Our mission is to help you reduce stress, improve flexibility, and connect with your inner self, whether you are a beginner or an experienced practitioner.",
       businessAddress: "Studio Locations",
-      address: "London, United Kingdom\nTokyo, Japan",
+      address: "New York, USA\nTokyo, Japan",
     },
     services: {
       heading: "Our Classes",
@@ -76,7 +76,7 @@ const languageData = {
       },
       emergency: {
         title: "Retreats & Special Events",
-        text: "Seasonal retreats and workshops available in London and Tokyo",
+        text: "Seasonal retreats and workshops available in New York and Tokyo",
       },
     },
     gallery: { heading: "Gallery" },
@@ -98,7 +98,7 @@ const languageData = {
       links: {
         home: "Home",
         about: "About",
-        services: "Classes",
+        services: "Services",
         contact: "Contact",
       },
       copyright: "© 2025 Powell Healing Yoga. All rights reserved.",
@@ -108,11 +108,11 @@ const languageData = {
       list: [
         {
           title: "Experienced Instructor",
-          text: "Learn from certified yoga teacher Melissa Jane.",
+          text: "Learn from certified yoga teacher Selena Marie Powell.",
         },
         {
           title: "Peaceful Studios",
-          text: "Practice in calming spaces in London and Tokyo.",
+          text: "Practice in calming spaces in New York and Tokyo.",
         },
         {
           title: "Flexible Options",
@@ -152,22 +152,22 @@ const languageData = {
     },
     hero: {
       heading: "心と体のバランスを整える",
-      text: "初心者から経験者まで、メリッサ・ジェーンが導く癒しのヨガと瞑想セッション。",
+      text: "初心者から経験者まで、セレナ・マリー・パウエルが導く癒しのヨガと瞑想セッション。",
       button: "クラスを予約",
     },
     directorCard: {
       title: "インストラクター",
-      name: "メリッサ・ジェーン",
+      name: "セレナ・マリー・パウエル",
       dob: "ニューヨーク & 東京を拠点",
     },
     about: {
       heading: "私たちについて",
       text1:
-        "パウエルヒーリングヨガは、認定インストラクターのメリッサ・ジェーンが指導する落ち着いた空間でヨガと瞑想を実践できます。",
+        "パウエルヒーリングヨガは、認定インストラクターのセレナ・マリー・パウエルが指導する落ち着いた空間でヨガと瞑想を実践できます。",
       text2:
         "私たちの使命は、ストレスを減らし、柔軟性を高め、内なる自分とつながることをサポートすることです。初心者も経験者も歓迎します。",
       businessAddress: "スタジオ所在地",
-      address: "イギリス・ニューヨーク\n日本・東京",
+      address: "アメリカ・ニューヨーク\n日本・東京",
     },
     services: {
       heading: "クラス内容",
@@ -236,7 +236,7 @@ const languageData = {
       list: [
         {
           title: "経験豊富なインストラクター",
-          text: "認定ヨガ講師メリッサ・ジェーンから学べます。",
+          text: "認定ヨガ講師セレナ・マリー・パウエルから学べます。",
         },
         {
           title: "落ち着いたスタジオ",
